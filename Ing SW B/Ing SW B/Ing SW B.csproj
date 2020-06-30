@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{04722900-A842-4305-96AB-9653AED637DE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ing_SW_B</RootNamespace>
+    <AssemblyName>Ing SW B</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\DFJPMOSH\Desktop\PruebaSWB\P2\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Punto de Venta</ProductName>
+    <PublisherName>Punto de Venta</PublisherName>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono-carro.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>89638BA52D11702EB7D7532DD0A4E4E074726869</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Ing SW B_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BD_Sistema_de_Ventas_MinisuperDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BD_Sistema_de_Ventas_MinisuperDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CClientes.cs" />
+    <Compile Include="CDetalleVenta.cs" />
+    <Compile Include="CExistencias.cs" />
+    <Compile Include="CProveedores.cs" />
+    <Compile Include="CVentas.cs" />
+    <Compile Include="DClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DClientes.Designer.cs">
+      <DependentUpon>DClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DCProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DCProductos.Designer.cs">
+      <DependentUpon>DCProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DCProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DCProveedores.Designer.cs">
+      <DependentUpon>DCProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaCliente.Designer.cs">
+      <DependentUpon>FormAltaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaPP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaPP.Designer.cs">
+      <DependentUpon>FormAltaPP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaProductos.Designer.cs">
+      <DependentUpon>FormAltaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBajaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBajaCliente.Designer.cs">
+      <DependentUpon>FormBajaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExistencias.Designer.cs">
+      <DependentUpon>FormExistencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMensaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMensaje.Designer.cs">
+      <DependentUpon>FormMensaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNuevoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNuevoProducto.Designer.cs">
+      <DependentUpon>FormNuevoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPedidos.Designer.cs">
+      <DependentUpon>FormPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPreload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPreload.Designer.cs">
+      <DependentUpon>FormPreload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVenta.Designer.cs">
+      <DependentUpon>FormVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DClientes.resx">
+      <DependentUpon>DClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DCProductos.resx">
+      <DependentUpon>DCProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DCProveedores.resx">
+      <DependentUpon>DCProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaCliente.resx">
+      <DependentUpon>FormAltaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaPP.resx">
+      <DependentUpon>FormAltaPP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaProductos.resx">
+      <DependentUpon>FormAltaProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBajaCliente.resx">
+      <DependentUpon>FormBajaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExistencias.resx">
+      <DependentUpon>FormExistencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMensaje.resx">
+      <DependentUpon>FormMensaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNuevoProducto.resx">
+      <DependentUpon>FormNuevoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPedidos.resx">
+      <DependentUpon>FormPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPreload.resx">
+      <DependentUpon>FormPreload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVenta.resx">
+      <DependentUpon>FormVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="BD_Sistema_de_Ventas_MinisuperDataSet1.xsc">
+      <DependentUpon>BD_Sistema_de_Ventas_MinisuperDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BD_Sistema_de_Ventas_MinisuperDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BD_Sistema_de_Ventas_MinisuperDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BD_Sistema_de_Ventas_MinisuperDataSet1.xss">
+      <DependentUpon>BD_Sistema_de_Ventas_MinisuperDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Ing SW B_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Venta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reportes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pedidos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abarrotestr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BD Sistema de Ventas Minisuper.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icono-carro.ico" />
+    <None Include="Resources\telefono.jpg" />
+    <None Include="Resources\lupa.jpg" />
+    <None Include="Resources\Fondo con Borde.jpg" />
+    <None Include="Resources\cargando.gif" />
+    <None Include="Resources\Vehiculos-175.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

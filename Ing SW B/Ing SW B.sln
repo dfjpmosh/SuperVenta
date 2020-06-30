@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ing SW B", "Ing SW B\Ing SW B.csproj", "{04722900-A842-4305-96AB-9653AED637DE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PuntoVenta", "Instalador\Instalador.vdproj", "{02E2A1B0-E40F-4CFD-902A-96B1EEFCA8D5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SuperVenta", "SuperVenta\SuperVenta.vdproj", "{063F3A49-845C-4D1F-8C9E-E6F53AB8B427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04722900-A842-4305-96AB-9653AED637DE}.Debug|x86.ActiveCfg = Debug|x86
+		{04722900-A842-4305-96AB-9653AED637DE}.Debug|x86.Build.0 = Debug|x86
+		{04722900-A842-4305-96AB-9653AED637DE}.Release|x86.ActiveCfg = Release|x86
+		{04722900-A842-4305-96AB-9653AED637DE}.Release|x86.Build.0 = Release|x86
+		{02E2A1B0-E40F-4CFD-902A-96B1EEFCA8D5}.Debug|x86.ActiveCfg = Debug
+		{02E2A1B0-E40F-4CFD-902A-96B1EEFCA8D5}.Release|x86.ActiveCfg = Release
+		{063F3A49-845C-4D1F-8C9E-E6F53AB8B427}.Debug|x86.ActiveCfg = Debug
+		{063F3A49-845C-4D1F-8C9E-E6F53AB8B427}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

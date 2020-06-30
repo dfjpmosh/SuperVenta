@@ -1,0 +1,59 @@
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\bin\Debug\BD Sistema de Ventas Minisuper.accdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\bin\Debug\Ing SW B.exe.config
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\bin\Debug\Ing SW B.exe.manifest
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\bin\Debug\Ing SW B.application
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\bin\Debug\Ing SW B.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\bin\Debug\Ing SW B.pdb
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.DClientes.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.DCProductos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.DCProveedores.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormPrincipal.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormAltaCliente.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormAltaPP.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormAltaProductos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormBajaCliente.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormReportes.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormMensaje.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormNuevoProducto.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormPedidos.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormPreload.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormVenta.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.Properties.Resources.resources
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.exe.manifest
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.application
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.exe
+C:\Users\DFJPMOSH\Documents\Visual Studio 2010\Projects\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.pdb
+C:\Users\dfjpmosh\Google Drive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\bin\Debug\Ing SW B.exe.config
+C:\Users\dfjpmosh\Google Drive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.exe
+C:\Users\dfjpmosh\Google Drive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.pdb
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\bin\Debug\Ing SW B.exe.config
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.exe
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.pdb
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\bin\Debug\BD Sistema de Ventas Minisuper.accdb
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\bin\Debug\Ing SW B.exe.manifest
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\bin\Debug\Ing SW B.application
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\bin\Debug\Ing SW B.exe
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\bin\Debug\Ing SW B.pdb
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.DClientes.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.DCProductos.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.DCProveedores.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormPrincipal.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormAltaCliente.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormAltaPP.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormAltaProductos.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormBajaCliente.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormReportes.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormMensaje.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormNuevoProducto.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormPedidos.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormPreload.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.FormVenta.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing_SW_B.Properties.Resources.resources
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.exe.manifest
+D:\dfjpmosh\GoogleDrive\Proyecto Ing. del SW B\Ing SW B\Ing SW B\obj\x86\Debug\Ing SW B.application
